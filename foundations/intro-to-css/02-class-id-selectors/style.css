@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.headertype1 {
+    background-color: #ffa6a7;
+    font-family: "Verdana", "DejaVu Sans", san-serif;
+}
+
+#testid {
+    color: blue;
+    font-size: 36px;
+}
+
+.headertype1.subtype1 {
+    font-size: 24px;
+}
+
+#secondid {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
